@@ -1,2 +1,2 @@
 hi 
-welcome to xCloud Devops Class in R210d
+welcome to xCloud Devops Class
